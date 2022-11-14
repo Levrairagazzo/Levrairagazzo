@@ -1,6 +1,6 @@
 ### Hi there, my name is Sydney, I'm a Computer Science graduate based in Oakland, California. I specalize in Front-End development using JavaScript and React. I'm also comfortable using Object Oriented Design in Java, C++, and Python. 
 
-- 🔭 Currently working on building a Memory Game application with React and on a checkers game using using Java's networking and GUI libraries.
+- 🔭 Currently working on building a Memory Game application with React and on a checkers game using Java's networking and GUI libraries.
 - 🌱 Currently learning Back-End web development using Node.js.
 - ⚡ Languages and Technologies:
     - Fluent: JavaScript, Java, C++, HTML, CSS
