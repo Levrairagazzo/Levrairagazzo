@@ -1,13 +1,10 @@
-### Hi there, my name is Sydney, I'm a Computer Science graduate based in Oakland, California. I specalize in Front-End development using JavaScript and React. I'm also comfortable using Object Oriented Design in Java, C++, and Python. 
+### Hi there, my name is Sydney, As a Software Engineer with experience in a range of programming languages including Java, Javascript, and Python, I am skilled in both front-end, back-end and mobile development. I am seeking a junior role where I can continue to grow and develop my skills while making meaningful contributions to the team.
 
-- 🔭 Currently working on building a Memory Game application with React and on a checkers game using Java's networking and GUI libraries.
-- 🌱 Currently learning Back-End web development using Node.js.
-- ⚡ Languages and Technologies:
-    - Fluent: JavaScript, Java, C++, HTML, CSS
-    - Comfortable: Python, React, WebPack
-    - Familiar with: Node.js, Next.js, MongoDB, BootStrap, Tailwind, PyGame, Android Studio
- 
- - 📫 How to reach me: goeurysydney@gmail.com
+In my past experience, I have worked on various projects and have consistently delivered high-quality code on time. I am constantly seeking to learn new technologies and am always eager to take on new challenges.
+
+I am a team player and have had the opportunity to live in four different countries, which has given me a unique perspective and the ability to adapt to new environments quickly. I am excited to connect with other professionals in the tech industry and am open to new opportunities. 
+
+How to reach me: goeurysydney@gmail.com
  
 <!--
 **Levrairagazzo/Levrairagazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
