@@ -1,8 +1,11 @@
 Hi there, my name is Sydney. Welcome to my GitHub! :)
 
-I'm a Junior Software Engineer with experience in a range of programming languages including Java, Javascript, and Python, I am skilled in both front-end, back-end and mobile development. I am excited to connect with other professionals in the tech industry and am open to new opportunities. 
+I'm a Junior Software Engineer with experience in a range of programming languages including Java, Javascript, and Python, I am skilled in both front-end, back-end and mobile development. I am excited to connect with other professionals in the tech industry and am open to new opportunities.
+
+You can check out my portfolio website here: https://sydneygoeury.onrender.com/
 
 How to reach me: goeurysydney@gmail.com
+
  
 <!--
 **Levrairagazzo/Levrairagazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
